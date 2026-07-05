@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+db.ini
+desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Cache files
+.cache/
+__pycache__/
+*.log
