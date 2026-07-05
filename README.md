@@ -13,6 +13,7 @@ Unlike standalone desktop scripts, this extension runs directly inside the Spoti
 * **Custom Idle Animation:** Configurable list of custom statuses (e.g. rotating emojis like `🕺 Chilling...`) when Spotify is paused or idle.
 * **Fully Customizable:** Easily change the status prefix (default: `🎶 `), intervals, and status text via a built-in UI modal.
 * **First-Load Prompt:** Automatically prompts you to enter your Discord token on the first run.
+<img width="1086" height="769" alt="image" src="https://github.com/user-attachments/assets/97b52e92-de30-436a-a44f-b49be28458f4" />
 
 ---
 
