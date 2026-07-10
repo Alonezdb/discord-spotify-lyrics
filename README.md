@@ -1,6 +1,6 @@
 # Discord Spotify Lyrics Sync
 
-<iframe width="1905" height="748" src="https://www.youtube.com/embed/_gRKmXKPrsU" title="Discord Spotify Lyrics Sync" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Discord Spotify Lyrics Sync Demo](https://img.youtube.com/vi/_gRKmXKPrsU/maxresdefault.jpg)](https://youtu.be/_gRKmXKPrsU)
 
 A Spicetify extension that syncs Spotify's active song lyrics to your Discord custom status in real-time.
 
