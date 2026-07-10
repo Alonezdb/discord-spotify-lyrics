@@ -1,10 +1,10 @@
 # Discord Spotify Lyrics Sync
 
-[![Discord Spotify Lyrics Sync Demo](https://img.youtube.com/vi/_gRKmXKPrsU/maxresdefault.jpg)](https://youtu.be/_gRKmXKPrsU)
-
 A Spicetify extension that syncs Spotify's active song lyrics to your Discord custom status in real-time.
 
 Unlike standalone desktop scripts, this extension runs directly inside the Spotify client using Spicetify. This means it doesn't poll external Web APIs, doesn't require developer API keys, and has direct access to Spotify's internal player state and synced lyrics.
+
+[![Discord Spotify Lyrics Sync Demo](https://github.com/user-attachments/assets/1f818b4b-b4a1-4b7c-a514-83cd8c9a29e1)](https://youtu.be/_gRKmXKPrsU)
 
 ---
 
@@ -15,8 +15,6 @@ Unlike standalone desktop scripts, this extension runs directly inside the Spoti
 * **Custom Idle Animation:** Configurable list of custom statuses (e.g. rotating emojis like `🕺 Chilling...`) when Spotify is paused or idle.
 * **Fully Customizable:** Easily change the status prefix (default: `🎶 `), intervals, and status text via a built-in UI modal.
 * **First-Load Prompt:** Automatically prompts you to enter your Discord token on the first run.
-
-<img width="1086" height="769" alt="image" src="https://github.com/user-attachments/assets/97b52e92-de30-436a-a44f-b49be28458f4" />
 
 ---
 
